@@ -1,0 +1,3 @@
+[submodule "ops-server"]
+	path = ops-server
+	url = git@github.com:angviza/ops-server.git
